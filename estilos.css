@@ -5,9 +5,6 @@ body{
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    background-color: #f5f5dc;
-    margin-left: 7cm;
-    margin-right: 7cm;
 }
 
 main{
@@ -16,6 +13,7 @@ main{
     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.836);
     width: 850px;
     padding: 10px;
+    margin: auto;
 }
 
 h1{
